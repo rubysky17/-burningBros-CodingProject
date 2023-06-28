@@ -1,0 +1,11 @@
+.card-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wrapper-loading {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}

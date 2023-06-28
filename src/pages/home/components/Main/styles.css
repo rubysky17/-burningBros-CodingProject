@@ -1,0 +1,12 @@
+.panel-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 16px;
+}
+
+.panel-wrapper__title {
+  color: #111827;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0;
+}
